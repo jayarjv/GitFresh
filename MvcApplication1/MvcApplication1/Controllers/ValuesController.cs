@@ -16,14 +16,14 @@ namespace MvcApplication1.Controllers
 
         public IEnumerable<string> Get()
         {
+            //Some comments from resolving branch by JB
             return new string[] { "value6", "value8" };
-            return new string[] { "value2", "value3" };
         }
 
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "value3";
         }
 
         // POST api/values
