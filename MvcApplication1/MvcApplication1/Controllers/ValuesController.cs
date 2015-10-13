@@ -16,7 +16,7 @@ namespace MvcApplication1.Controllers
 
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value6", "value7" };
         }
 
         // GET api/values/5
