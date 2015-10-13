@@ -23,7 +23,7 @@ namespace MvcApplication1.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "value3";
         }
 
         // POST api/values
